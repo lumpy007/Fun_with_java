@@ -1,0 +1,32 @@
+package Path_of_exile;
+
+import javafx.application.Application;
+import javafx.scene.Group;
+import javafx.scene.Scene;
+import javafx.scene.image.Image;
+import javafx.scene.paint.Color;
+import javafx.stage.Stage;
+
+public class automaton extends Application {
+
+	public static void main(String[] args) 
+	{
+		launch();
+
+	}
+
+	@Override
+	public void start(Stage primaryStage) throws Exception 
+	{
+		Image poeImage = new Image ("https://web.poecdn.com/image/favicon/ogimage.png?atlas");
+		
+		Group root = new Group();
+		Scene scene = new Scene(root, 850, 850);
+		scene.setFill(Color.FIREBRICK);
+		primaryStage.setTitle("Poe helper control screen");
+		primaryStage.setScene(scene);
+		primaryStage.show();
+		
+	}
+
+}

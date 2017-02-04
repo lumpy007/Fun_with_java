@@ -1,5 +1,0 @@
-  2956  PROCEDURE read_prfile_traffica_bits
-  3009    DECISION ( g_no_dx_hw );
-  3012    ELSE:
-  3019      DECISION (prfile_read);
-  3022      ELSE:
