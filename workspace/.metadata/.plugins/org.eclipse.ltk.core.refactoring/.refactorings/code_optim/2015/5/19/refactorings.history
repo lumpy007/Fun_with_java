@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;code_optim.patterns.resolve(...)&apos; to &apos;handleResult&apos;&#x0D;&#x0A;- Original project: &apos;code_optim&apos;&#x0D;&#x0A;- Original element: &apos;code_optim.patterns.resolve(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;code_optim.patterns.handleResult(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;resolve&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;code_optim{patterns.java[patterns~resolve~\[QString;~QString;" name="handleResult" references="true" stamp="1430980703687" version="1.0"/>
+</session>

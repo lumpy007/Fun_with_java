@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;s&apos; in &apos;getTankdata.findNameFromId(...)&apos; to &apos;inputLine&apos;&#x0D;&#x0A;- Original project: &apos;Wot&apos;&#x0D;&#x0A;- Original element: &apos;getTankdata.findNameFromId(String).s&apos;&#x0D;&#x0A;- Renamed element: &apos;s&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;s&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{getTankdata.java[getTankdata~findNameFromId~QString;@s!2594!2607!2601!2601!QString;!0!false" name="inputLine" references="true" stamp="1409832903760" version="1.0"/>
+</session>

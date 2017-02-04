@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private void fillMatrix()&apos; from &apos;mouse_draw.testFunctions.actionPerformed()&apos; to &apos;mouse_draw.testFunctions&apos;&#x0D;&#x0A;- Original project: &apos;mouse_draw&apos;&#x0D;&#x0A;- Method name: &apos;fillMatrix&apos;&#x0D;&#x0A;- Destination type: &apos;mouse_draw.testFunctions&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;fillMatrix&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;mouse_draw{testFunctions.java" name="fillMatrix" replace="false" selection="224 220" stamp="1467299553857" version="1.0" visibility="2"/>
+</session>

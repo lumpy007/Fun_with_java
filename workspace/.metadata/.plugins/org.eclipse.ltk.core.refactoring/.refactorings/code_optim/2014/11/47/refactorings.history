@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private void megeszi_a_cnr_filet_es_kikopi_a_prb_listat(PrintWriter pw, File file) throws FileNotFoundException, IOException &apos; from &apos;code_optim.test.actionPerformed()&apos; to &apos;code_optim.test&apos;&#x0D;&#x0A;- Original project: &apos;code_optim&apos;&#x0D;&#x0A;- Method name: &apos;megeszi_a_cnr_filet_es_kikopi_a_prb_listat&apos;&#x0D;&#x0A;- Destination type: &apos;code_optim.test&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;megeszi_a_cnr_filet_es_kikopi_a_prb_listat&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;code_optim{test.java" name="megeszi_a_cnr_filet_es_kikopi_a_prb_listat" replace="false" selection="853 877" stamp="1416219708519" version="1.0" visibility="2"/>
+</session>

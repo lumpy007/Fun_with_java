@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;test&apos; in &apos;code_optim.control.createAndShowGUI()&apos; to &apos;testbutton&apos;&#x0D;&#x0A;- Original project: &apos;code_optim&apos;&#x0D;&#x0A;- Original element: &apos;code_optim.control.createAndShowGUI().test&apos;&#x0D;&#x0A;- Renamed element: &apos;test&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;test&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;code_optim{control.java[control~createAndShowGUI@test!2007!2046!2015!2018!QJButton;!0!false" name="testbutton" references="true" stamp="1420620785755" version="1.0"/>
+</session>
