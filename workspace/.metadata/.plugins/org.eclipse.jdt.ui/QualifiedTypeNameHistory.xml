@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="javax.swing.filechooser.FileFilter"/>
-<fullyQualifiedTypeName name="java.io.FilenameFilter"/>
-<fullyQualifiedTypeName name="java.util.regex.PatternSyntaxException"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="java.nio.file.Path"/>
 <fullyQualifiedTypeName name="javax.swing.JTree"/>
 <fullyQualifiedTypeName name="java.beans.PropertyChangeListener"/>
 <fullyQualifiedTypeName name="java.awt.event.MouseListener"/>
@@ -60,4 +55,9 @@
 <fullyQualifiedTypeName name="java.io.InputStream"/>
 <fullyQualifiedTypeName name="java.io.FileInputStream"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="javafx.scene.image.Image"/>
+<fullyQualifiedTypeName name="javafx.scene.paint.Color"/>
+<fullyQualifiedTypeName name="javafx.scene.control.Button"/>
+<fullyQualifiedTypeName name="javafx.event.ActionEvent"/>
+<fullyQualifiedTypeName name="java.beans.EventHandler"/>
 </qualifiedTypeNameHistroy>
